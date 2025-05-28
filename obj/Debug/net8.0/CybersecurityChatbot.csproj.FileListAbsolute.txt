@@ -17,3 +17,41 @@ C:\Users\robosoft corporation\Desktop\Cybersecurity Awareness Chatbot\Cybersecur
 C:\Users\robosoft corporation\Desktop\Cybersecurity Awareness Chatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.pdb
 C:\Users\robosoft corporation\Desktop\Cybersecurity Awareness Chatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.genruntimeconfig.cache
 C:\Users\robosoft corporation\Desktop\Cybersecurity Awareness Chatbot\CybersecurityChatbot\obj\Debug\net8.0\ref\CybersecurityChatbot.dll
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.exe
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.deps.json
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.runtimeconfig.json
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.dll
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.pdb
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.csproj.AssemblyReference.cache
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.AssemblyInfoInputs.cache
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.AssemblyInfo.cs
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.sourcelink.json
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\obj\Debug\net8.0\Cybersec.C23A7829.Up2Date
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.dll
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\obj\Debug\net8.0\refint\CybersecurityChatbot.dll
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.pdb
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.genruntimeconfig.cache
+C:\Users\robosoft corporation\Desktop\CybersecurityChatbot\obj\Debug\net8.0\ref\CybersecurityChatbot.dll
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.exe
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.deps.json
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.runtimeconfig.json
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.dll
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.pdb
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.csproj.AssemblyReference.cache
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.AssemblyInfoInputs.cache
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.AssemblyInfo.cs
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.sourcelink.json
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\Cybersec.C23A7829.Up2Date
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.dll
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\refint\CybersecurityChatbot.dll
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.pdb
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.genruntimeconfig.cache
+C:\Users\robosoft corporation\Desktop\PROJECTS\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\ref\CybersecurityChatbot.dll

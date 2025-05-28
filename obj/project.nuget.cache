@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8wfXYwMTfqI=",
+  "dgSpecHash": "7A56Qh3dTzY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\robosoft corporation\\Desktop\\Cybersecurity Awareness Chatbot\\CybersecurityChatbot\\CybersecurityChatbot.csproj",
+  "projectFilePath": "C:\\Users\\robosoft corporation\\Desktop\\PROJECTS\\CybersecurityChatbot\\CybersecurityChatbot\\CybersecurityChatbot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\robosoft corporation\\.nuget\\packages\\system.windows.extensions\\9.0.3\\system.windows.extensions.9.0.3.nupkg.sha512"
   ],
